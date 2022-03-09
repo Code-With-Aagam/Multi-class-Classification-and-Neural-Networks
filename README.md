@@ -1,6 +1,6 @@
 Multi Class Classification and Neural Networks
 ===================
-Programming Exercise 2 in Machine Learning course by Andrew Ng on Coursera.  
+Programming Exercise 3 in Machine Learning course by Andrew Ng on Coursera.  
 The course info can be found here https://class.coursera.org/ml-004/class/index.
 
 In this exercise, a logistic regression model to predict whether 
