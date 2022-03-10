@@ -5,7 +5,7 @@ The course info can be found here https://class.coursera.org/ml-004/class/index.
 
 In this exercise, a logistic regression model to predict whether 
 a student gets admitted into a university will be created step by step.  
-The details of this assignment is described in ex2.pdf
+The details of this assignment is described in ex3.pdf
 
 The codes are written by Octave.  
 For further info of Octave please see http://www.gnu.org/software/octave/
